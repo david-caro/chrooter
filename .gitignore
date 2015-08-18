@@ -1,0 +1,12 @@
+*.py[co]
+.*.sw[a-z]
+# var temp dirs
+/build
+/.tox
+*.egg-info
+ChangeLog
+AUTHORS
+# var projects:
+.idea
+.cproject
+.ropeproject
