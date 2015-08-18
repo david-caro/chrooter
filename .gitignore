@@ -1,0 +1,9 @@
+*.py[co]
+.*.sw[a-z]
+# var temp dirs
+/build
+/.tox
+# var projects:
+.idea
+.cproject
+.ropeproject
