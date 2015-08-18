@@ -3,6 +3,9 @@
 # var temp dirs
 /build
 /.tox
+*.egg-info
+ChangeLog
+AUTHORS
 # var projects:
 .idea
 .cproject
